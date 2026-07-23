@@ -8,15 +8,19 @@ Welcome to my central Power BI portfolio repository. This space organizes specia
 
 Explore the specific dashboards integrated within this repository below. Click on each project title to view its full interactive documentation, operational demos, and architecture.
 
-### 1. [Global Data Jobs Dashboard (Dark Mode)](./global-datajobs-dashboard/)
-* **Description:** A high-impact executive interface dedicated to isolating critical market skillsets and financial benchmarks across global data sectors.
-* **Core Metrics:** Features deep-dives into 479K postings tracking a metric of **4.8 average skills per job**, mapping Python and SQL as baseline dependencies.
-* **Key Visuals:** Parameterized toggle switch for viewing metrics by "Job Percent" vs. "Job Count", and salary metrics via "Median Yearly Salary" vs. "Median Hourly Salary".
+### 1. [Data Jobs Dashboard (Light Mode)](./datajobs-dashboard/)
+<img src="./datajobs-dashboard/images/Project1_Page1.png" width="100%" alt="Data Jobs Dashboard (Light Mode)" />
 
-### 2. [Data Jobs Dashboard (Light Mode)](./datajobs-dashboard/)
 * **Description:** An analytical dashboard tracking high-level recruitment trends, rating systems, and job distribution over time.
 * **Core Metrics:** Maps career metrics such as dynamic **Job Title Drill Through pages** (e.g., Data Engineer pipelines tracking 89% contractor ratios and global geographical job maps).
 * **Key Visuals:** Granular timeline sliders tracking macro hiring dips and spikes, combined with scatter plot comparisons evaluating Hourly vs. Median Salaries across tech fields.
+
+### 2. [Global Data Jobs Dashboard (Dark Mode)](./global-datajobs-dashboard/)
+<img src="./global-datajobs-dashboard/images/global_datajobs_dashboard.png" width="100%" alt="Global Data Jobs Dashboard" />
+
+* **Description:** A high-impact executive interface dedicated to isolating critical market skillsets and financial benchmarks across global data sectors.
+* **Core Metrics:** Features deep-dives into 479K postings tracking a metric of **4.8 average skills per job**, mapping Python and SQL as baseline dependencies.
+* **Key Visuals:** Parameterized toggle switch for viewing metrics by "Job Percent" vs. "Job Count", and salary metrics via "Median Yearly Salary" vs. "Median Hourly Salary".
 
 ---
 
